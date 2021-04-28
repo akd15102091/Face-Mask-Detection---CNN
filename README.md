@@ -34,6 +34,7 @@ Approach to solve task :
     5) Convert list(X_train,X_test, y_train, y_test) into numpy-arrays , normalise them.
 
     6) Applied the CNN model .
+    
     7) Save the model into h5 file .
 
     8) Using Opencv, implement model at run time. When camera captures the frame, our model will predict the face mask and if there is no faces in front of camera then "NO FACES" detected.
